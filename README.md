@@ -1,2 +1,2 @@
 # learning_front_end_dev
-repo for learning front end dev
+This repository is the starting block for Jyrone Parker's Learning Front End Development course.
